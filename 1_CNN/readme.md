@@ -1,0 +1,1 @@
+需要先运行imports_and_data.py和model.py来确保其他脚本可以正常导入这些必要的组件。接着，你可以运行train_and_test.py来训练和测试模型。最后，使用predict.py来对新的图像数据进行预测。确保在train_and_test.py和predict.py中适当地导入所需的模块。
